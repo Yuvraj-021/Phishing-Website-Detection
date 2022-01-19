@@ -10,3 +10,4 @@ It provides Various options to the user:
 4. Viewing all the blacklisted and whitelisted websites
 
 
+![1](https://user-images.githubusercontent.com/69747262/150140273-a32c4a42-6148-4627-9b14-49e06fa2fedd.png)
